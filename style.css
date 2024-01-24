@@ -97,7 +97,7 @@
 .floral-design {
   height: 80px;
   /* url("floral_pattern.svg"), */
-  background-image: url("https://drive.google.com/uc?id=1ySNRSIIJnJ1xD_a3gz_oRtdT6onnPVrK"),
+  background-image: url("https://res.cloudinary.com/dmftvj7uj/image/upload/v1706121745/sgth-assets/about_us_img_o8nkhv.svg"),
     linear-gradient(180deg, rgba(7, 59, 76, 1) 40%, rgba(0, 0, 0, 0.01) 70%);
   /* background-repeat: no-repeat; */
   /* background-image: ; */
@@ -224,7 +224,7 @@
   );
 }
 .landing-page {
-  background: url("https://drive.google.com/uc?id=1KVgt_O3YSXb98sxglJNss4gBxXyxhh_8");
+  background: url("https://res.cloudinary.com/dmftvj7uj/image/upload/v1706122278/sgth-assets/landing-page_dwdzrt.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
